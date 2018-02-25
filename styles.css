@@ -1,0 +1,73 @@
+#topbar {
+	width: 1000px;
+	margin: 0 auto;
+	height: 40px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#logo {
+	margin-top: 8px;
+	width: 100px;
+	float: left;
+	margin-right: 8px;
+}
+
+.topbar-sec {
+	float: left;
+	border-left: 1px #708090 solid;
+	height: 100%;
+	/*border-right: 1px #708090 solid;*/
+}
+
+#login-img {
+	width: 25px;
+	margin: 10px 5px 10px 15px;
+	float: left;
+
+}
+
+#signin-text {
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 14px;
+	padding-right: 60px;
+
+}
+
+.topbar-menu {
+	font-weight: bold;
+	font-size: 90%;
+	padding: 13px 15px 0 15px;
+	height: 27px;
+}
+
+#more-arrow {
+	width: 12px;
+	margin-left: 10px;
+
+
+}
+
+#search-box {
+	background-color: #E4E4E4;
+	border:none;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 5px;
+	margin: 5px 0 5px 5px;
+	float: left;
+
+}
+
+#magnifying-glass {
+	width: 16px;
+	margin-top: 5px;
+	padding: 5px;
+	background-color: #E4E4E4;
+}
