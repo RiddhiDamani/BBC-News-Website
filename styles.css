@@ -237,14 +237,15 @@ h3 a:hover {
 }
 
 #watch-listen {
-	margin-left: 20px;
-	width: 270px;
+	margin-left: 0px;
+	width: 290px;
 	float: right;
 }
 
 h4 {
 	font-weight: normal;
 	font-size: 20px;
+    font-weight: bold;
 }
 
 #article-side {
@@ -258,7 +259,6 @@ h4 {
 	font-weight: bold;
 	font-size: 18px;
 
-
 }
 
 .video-title:hover {
@@ -267,7 +267,23 @@ h4 {
 
 .side-article {
 	float: right;
-	width: 150px;
+	width: 190px;
 	position: relative;
-	top: -15px;
+	top: -18px;
+}
+
+.date1 {
+	padding-right: 5px;
+	font-size: 14px;
+	color: #5a5a5a;
+	border-right: 1px solid black;
+
+	}
+
+#topic-link1 {
+	color: #a91717;
+	text-decoration: none;
+	padding-left: 0px;
+	font-size: 15px;
+	margin-left: 25px;
 }
