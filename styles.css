@@ -238,7 +238,8 @@ h3 a:hover {
 
 #watch-listen {
 	margin-left: 20px;
-	width: 350px;
+	width: 270px;
+	float: right;
 }
 
 h4 {
@@ -262,4 +263,11 @@ h4 {
 
 .video-title:hover {
 	color: #1167a8;
+}
+
+.side-article {
+	float: right;
+	width: 150px;
+	position: relative;
+	top: -15px;
 }
