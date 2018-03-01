@@ -287,3 +287,15 @@ h4 {
 	font-size: 15px;
 	margin-left: 25px;
 }
+
+footer {
+	background-color: #4C4C4C;
+	width:1400px;
+	height: 100px;
+}
+
+#foot {
+	text-align: center;
+	font-size: 15px;
+	padding-top: 50px;
+}
